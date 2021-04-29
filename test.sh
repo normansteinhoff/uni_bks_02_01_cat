@@ -1,0 +1,1 @@
+./cat input1.txt input.txt input2.txt
